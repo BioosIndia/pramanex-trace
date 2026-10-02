@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or reference PRAMANEX TRACE, please cite the publication below."
+title: "PRAMANEX TRACE: Evidence Is the Control Plane"
+authors:
+  - family-names: "Dewangan"
+    given-names: "Rahul"
+version: "1.0"
+date-released: 2026-10-02
+doi: "10.5281/zenodo.23096983"
+url: "https://doi.org/10.5281/zenodo.23096983"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Dewangan"
+      given-names: "Rahul"
+  title: "PRAMANEX TRACE: Evidence Is the Control Plane - A Reference Architecture and Operating Contract for Bounded System Assurance"
+  year: 2026
+  doi: "10.5281/zenodo.23096983"
